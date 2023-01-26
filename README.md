@@ -32,7 +32,7 @@ python3 src/disassociate.py vpc-061c02becd1630c9c,vpc-0880368327804d479
 export AWS_PROFILE=XYZ
 ```
 
-### Step 2. Execute the script with list VPC ID(s)
+### Step 2. Execute the script with VPC ID(s)
 ```
 [nix-shell:~/route53-resolver-disassociations]$ python src/disassociate.py
 Usage: python3 src/disassociate.py [VPC_IDS,VPC_IDS,...]
