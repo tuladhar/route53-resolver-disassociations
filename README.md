@@ -1,5 +1,5 @@
 # route53-resolver-disassociations
-A script to disassociate route53 resolver rules from provided VPC IDs
+A script to disassociate route53 resolver rules from provided VPC IDs.
 
 ## Use cases
 - Quickly disassociate route53 resolver rules associated to the VPC(s) in bulk.
